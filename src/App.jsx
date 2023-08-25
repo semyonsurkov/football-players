@@ -15,7 +15,7 @@ function Player() {
 
   async function fetchRandomPlayer() {
     try {
-      const response = await fetch('http://127.0.0.1:5000/players');
+      const response = await fetch('http://31.129.102.114:5000/players');
       const data = await response.json();
 
       const randomIndex = Math.floor(Math.random() * data.length);
