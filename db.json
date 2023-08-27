@@ -1,0 +1,17 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "Name": "Cristiano Ronaldo",
+      "Position": "ST",
+      "img": "https://static01.nyt.com/images/2022/12/30/multimedia/30soccer-ronaldo-1-76fd/30soccer-ronaldo-1-76fd-jumbo.jpg?quality=75&auto=webp"
+    },
+        {
+      "id": 1,
+      "Name": "Lionel Messi",
+      "Position": "CAM",
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/230822081409-02-lionel-messi-0819.jpg?c=16x9&q=h_540,w_960,c_fill/f_webp"
+    }
+  ]
+}
+
